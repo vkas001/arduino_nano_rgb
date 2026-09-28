@@ -1,0 +1,8 @@
+{
+  "name": "RGBEffects",
+  "version": "1.0.0",
+  "description": "Modular effect library for addressable RGB strips (WS2812B/NeoPixel)",
+  "keywords": ["rgb", "led", "neopixel", "ws2812", "effects"],
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
